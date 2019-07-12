@@ -4,7 +4,7 @@ import tkinter as tk
 from PIL import ImageTk,Image
 # UI
 
-fp = '/demo/04.jpg'
+fp = '/demo/01.jpg'
 # 路径 需修改
 
 def rgbTo16(a):
