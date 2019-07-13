@@ -1,5 +1,5 @@
 # Palette-Visualization
-将各类图片（绘画、摄影等）的配色方案运用到数据可视化中
+将各类图片（绘画、摄影等）的配色方应运用到数据可视化中 现支持R语言
 
 ## Requirements
 * Python3.6
